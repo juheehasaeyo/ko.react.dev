@@ -11,7 +11,7 @@
       "path": "/learn",
       "routes": [
         {
-          "title": "튜토리얼: Tic-Tac-Toe",
+          "title": "자습서: Tic-Tac-Toe",
           "path": "/learn/tutorial-tic-tac-toe"
         },
         {
@@ -45,7 +45,7 @@
           "path": "/learn/react-developer-tools"
         },
         {
-          "title": "React Compiler",
+          "title": "React 컴파일러",
           "path": "/learn/react-compiler",
           "canary": true
         }
